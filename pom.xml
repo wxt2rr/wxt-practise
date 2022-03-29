@@ -14,7 +14,7 @@
 	<name>wxt-practise</name>
 	<description>some practise code</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
