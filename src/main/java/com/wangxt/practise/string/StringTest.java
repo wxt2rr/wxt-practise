@@ -1,4 +1,4 @@
-package com.wangxt.practise.java_core.string;
+package com.wangxt.practise.string;
 
 public class StringTest {
 
