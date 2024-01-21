@@ -1,3 +1,4 @@
+/*
 package com.wangxt.practise.socket.nio;
 
 import sun.nio.ch.ServerSocketAdaptor;
@@ -14,3 +15,4 @@ public class ServerSocketAdaptorTest {
         //SocketAdaptor.create()
     }
 }
+*/

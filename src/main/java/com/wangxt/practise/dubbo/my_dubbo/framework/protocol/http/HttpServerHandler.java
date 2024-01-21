@@ -4,7 +4,6 @@ import com.alibaba.fastjson.JSONObject;
 import com.wangxt.practise.dubbo.my_dubbo.framework.data.DataDto;
 import com.wangxt.practise.dubbo.my_dubbo.framework.regist.LocalRegister;
 import org.apache.commons.io.IOUtils;
-import sun.nio.ch.IOUtil;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
